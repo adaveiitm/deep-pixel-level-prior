@@ -9,7 +9,7 @@ Derived from the original PixelCNN++ code which can be found [here](https://gith
 
 Original Image          |  Masked Image      |  During Inference   | Recovered Image
 :-------------------------:|:-------------------------: | :-------------------------:|:-------------------------:
-![](https://github.com/adaveiitm/deep-pixel-level-prior/blob/master/code/images/parrot_cropped.jpg)  |  ![](https://github.com/adaveiitm/deep-pixel-level-prior/blob/master/code/images/initial_img.png) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/blob/master/code/images/during_process.gif) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/blob/master/code/images/reconstructed_img.png)
+![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/parrot_cropped.jpg)  |  ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/initial_img.png) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/during_process.gif) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/reconstructed_img.png)
 
 ## Requirements
 
@@ -19,6 +19,6 @@ Original Image          |  Masked Image      |  During Inference   | Recovered I
 
 ## Usage
 
-1. A PixelCNN++ model trained on 64x64 ImageNet can be found [here](https://drive.google.com/drive/folders/1hc8ycxvQB0gKdFbraqI0dj5JbpMGHe6l). Download the three files and save them in the 'saves\' folder.
+1. A PixelCNN++ model trained on 64x64 ImageNet can be found [here](https://drive.google.com/drive/folders/1hc8ycxvQB0gKdFbraqI0dj5JbpMGHe6l). Download the three files and save them in the `saves` folder.
 
-2. For SPC reconstruction at 25% measurement rate with default parameters, run 'python reconstruct_spc.py'
+2. For SPC reconstruction at 25% measurement rate with default parameters, run `python reconstruct_spc.py`
