@@ -9,7 +9,7 @@ Derived from the original PixelCNN++ code which can be found [here](https://gith
 
 Original Image          |  Masked Image      |  During Inference   | Recovered Image
 :-------------------------:|:-------------------------: | :-------------------------:|:-------------------------:
-![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/parrot_cropped.jpg)  |  ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/initial_img.png) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/during_process.gif) | ![](https://github.com/adaveiitm/deep-pixel-level-prior/tree/master/images/reconstructed_img.png)
+![](images/parrot_cropped.jpg)  |  ![](images/initial_img.png) | ![](images/during_process.gif) | ![](images/reconstructed_img.png)
 
 ## Requirements
 
